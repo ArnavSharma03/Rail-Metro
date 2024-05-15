@@ -19,3 +19,25 @@ Trip Planner: A trip planner can be used to optimize public transportation route
 
 Rural and Remote Areas: Rural and isolated locations deal with particular transportation issues; this project can improve accessibility and connectivity for these places, potentially increasing their economic development and quality of life.
 
+
+| Number | Station Code | Location            |
+| ------ | ------------ | ------------------- |
+| 0      | CLOCK        | CLOCK TOWER         |
+| 1      | DILARAM      | DILARAM CHOWK       |
+| 2      | BB           | BB                  |
+| 3      | CENTERIO     | CENTERIO MALL       |
+| 4      | KRISHAN      | KRISHAN NAGAR CHOWK |
+| 5      | RAJ          | RAJ BHAWAN          |
+| 6      | ISBT         | ISBT                |
+| 7      | BALLUPUR     | BALLUPUR CHOWK      |
+| 8      | ONGC         | ONGC                |
+| 9      | VASANT       | VASANT VIHAR        |
+| 10     | PANDITWADI   | PANDITWADI          |
+| 11     | IMA          | IMA                 |
+| 12     | MB           | MB                  |
+| 13     | PREM         | PREM NAGER          |
+| 14     | PHULSANI     | PHULSANI            |
+| 15     | NANDA        | NANDA KI CHOWKI     |
+| 16     | PONDHA       | PONDHA              |
+| 17     | KANDOLI      | KANDOLI             |
+| 18     | UPES         | UPES                |
