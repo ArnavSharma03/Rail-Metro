@@ -41,3 +41,5 @@ Rural and Remote Areas: Rural and isolated locations deal with particular transp
 | 16     | PONDHA       | PONDHA              |
 | 17     | KANDOLI      | KANDOLI             |
 | 18     | UPES         | UPES                |
+
+![DetailedGraph](https://github.com/Hitendra-Sisodia/Rail-Metro-App/assets/97343226/55cc35c0-1d45-4475-b03e-4ad9aae7ef2e)
