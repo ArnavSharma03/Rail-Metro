@@ -1,5 +1,5 @@
 # Rail-Metro
-# Rail Metro Using Dijkstra’s Algorithm and Ant Colony Optimization
+# Rail Metro Using Dijkstra’s Algorithm 
 
 ## Introduction
 
