@@ -25,7 +25,7 @@ public class MetroMapGUI extends Application {
     public void start(Stage primaryStage) {     
         metroMap = new MetroMap();
         dijkstraAlgo = new DijkstraAlgo();
-        addDefaultStationsAndEdges();                
+        addDefaultStationsAndEdges();         
         primaryStage.setTitle("Metro Map GUI");
         
         // Green ----> class   blue ----> object  new ----> keyword  yellow ----> Constructor
