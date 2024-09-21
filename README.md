@@ -19,6 +19,7 @@ Tourism and Navigation: Tourism and navigation apps can use efficient routing al
 
 Trip Planner: A trip planner can be used to optimize public transportation routes in urban areas. By providing efficient routes and schedules for buses, trams, and trains, it can encourage more people to use public transport, reduce traffic congestion, and minimize the environmental impact of commuting.
 
+
 Rural and Remote Areas: Rural and isolated locations deal with particular transportation issues; this project can improve accessibility and connectivity for these places, potentially increasing their economic development and quality of life.
 
 
